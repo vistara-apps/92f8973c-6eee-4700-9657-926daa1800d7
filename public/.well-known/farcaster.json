@@ -10,8 +10,8 @@
     "iconUrl": "https://x402agent.xyz/icon.png",
     "splashImageUrl": "https://x402agent.xyz/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://x402agent.xyz/",
-    "webhookUrl": "https://api.x402agent.xyz/farcaster/webhook",
+    "homeUrl": "https://app-aa1800d7-s6qu.vercel.app",
+    "webhookUrl": "https://app-aa1800d7-s6qu.vercel.app/api/webhook",
     "subtitle": "Mint exclusive agents for $0.10",
     "description": "Mint unique x402 Agent NFTs for a micro-transaction fee of $0.10 USDC, leveraging Farcaster for viral sharing and social identity-bound collectibles.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://x402agent.xyz/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["nft", "collectibles", "social", "base", "usdc"],
+    "tags": [
+      "nft",
+      "collectibles",
+      "social",
+      "base",
+      "usdc"
+    ],
     "heroImageUrl": "https://x402agent.xyz/hero.png",
     "tagline": "Mint exclusive x402 Agents",
     "ogTitle": "x402 Agent Mint",
